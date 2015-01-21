@@ -7,7 +7,7 @@ package com.mralex6204.datetime;
 public class Program {
     public static void main(String[] args){
         
-        /*Usa of the class DateTime*/
+        /*Use of the class DateTime*/
         System.out.println(DateTime.Now());
 
     }
